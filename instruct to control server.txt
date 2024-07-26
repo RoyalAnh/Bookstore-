@@ -1,0 +1,3 @@
+mystore(sql) cho vào sql trong xampp 
+xampp: chạy apache và MySQL
+mở localhost/mystore 
